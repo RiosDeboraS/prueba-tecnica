@@ -1,0 +1,31 @@
+/* ServiceSelection.module.css */
+
+/* Estilos para el contenedor principal */
+.container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    margin-top: 0%;
+}
+
+.title {
+    margin: 20px 10px 10px;
+    color: rgb(20, 59, 59);
+}
+
+/* Estilos para las categorías */
+.category {
+    margin-bottom: 16px;
+    cursor: pointer;
+    color: #838282;
+}
+
+/* Estilos para los botones */
+.button {
+    background-color: #00bfff;
+    color: #fff;
+    border: none;
+    border-radius: 100%;
+    padding: 8px 16px;
+    cursor: pointer;
+}
